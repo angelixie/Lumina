@@ -1,0 +1,72 @@
+[
+   { 
+     "id": 1,
+     "nombre": "AmericaTelevision",
+     "categoría": "Noticia",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+     "url": "http://190.93.224.42/AMERICA-TV/index.m3u8"
+   },
+   { 
+     "id": 2,
+     "nombre": "Latina",
+     "categoría": "Entretenimiento",
+     "imagen": "https://i.imgur.com/MOsWriY.png",
+     "url": "http://190.93.224.42/LATINA/index.m3u8"
+   },
+   { 
+     "id": 3,
+     "nombre": "PanamericanaTV",
+     "categoría": "Noticia",
+     "imagen": "https://i.imgur.com/uQhEDES.png",
+     "url": "http://45.171.108.253:8888/PANAMERICANA/index.m3u8"
+   },
+   { 
+     "id": 4,
+     "nombre": "ATV",
+     "categoría": "Entretenimiento",
+     "imagen": "https://i.imgur.com/eUzYZfg.png",
+     "url": "http://190.93.224.42/ATV/index.m3u8"
+   },
+   { 
+     "id": 5,
+     "nombre": "TVPeru",
+     "categoría": "Cultura e informacion",
+     "imagen": "https://i.imgur.com/6io0IrX.png",
+     "url": "http://190.93.224.42/TV-PERU/index.m3u8"
+   },
+   { 
+     "id": 6,
+     "nombre": "VivaTV",
+     "categoría": "Entretenimiento",
+     "imagen": "https://i.imgur.com/GkSoxhx.png",
+     "url": "https://live.obslivestream.com/vivatv/index.m3u8"
+   },
+   { 
+     "id": 7,
+     "nombre": "Teleselva",
+     "categoría": "Noticia",
+     "imagen": "https://i.imgur.com/cu7hTn8.png",
+     "url": "https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8"
+   },
+   { 
+     "id": 8,
+     "nombre": "SeñalPerú",
+     "categoría": "Musica",
+     "imagen": "https://i.imgur.com/1q0R6R9.png",
+     "url": "https://livestream.perucast.com/hls/stream.m3u8"
+   },
+   { 
+     "id": 9,
+     "nombre": "SuperCanal",
+     "categoría": "Entretenimiento",
+     "imagen": "https://i.imgur.com/eotfCMd.png",
+     "url": "https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8"
+   },
+   { 
+     "id": 10,
+     "nombre": "Primavera15",
+     "categoría": "Peliculas",
+     "imagen": "https://i.imgur.com/wsJ8Ag2.png",
+     "url": "https://mc.servidor.stream:19360/8244/8244.m3u8"
+   }
+ ]
