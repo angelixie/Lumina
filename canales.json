@@ -9,7 +9,7 @@
    { 
      "id": 2,
      "nombre": "Latina",
-     "categoría": "Entretenimiento",
+     "categoría": "Noticia",
      "imagen": "https://i.imgur.com/MOsWriY.png",
      "url": "http://190.93.224.42/LATINA/index.m3u8"
    },
@@ -23,21 +23,21 @@
    { 
      "id": 4,
      "nombre": "ATV",
-     "categoría": "Entretenimiento",
+     "categoría": "Noticia",
      "imagen": "https://i.imgur.com/eUzYZfg.png",
      "url": "http://190.93.224.42/ATV/index.m3u8"
    },
    { 
      "id": 5,
      "nombre": "TVPeru",
-     "categoría": "Cultura e informacion",
+     "categoría": "Cultura",
      "imagen": "https://i.imgur.com/6io0IrX.png",
      "url": "http://190.93.224.42/TV-PERU/index.m3u8"
    },
    { 
      "id": 6,
      "nombre": "VivaTV",
-     "categoría": "Entretenimiento",
+     "categoría": "Noticia",
      "imagen": "https://i.imgur.com/GkSoxhx.png",
      "url": "https://live.obslivestream.com/vivatv/index.m3u8"
    },
@@ -58,14 +58,14 @@
    { 
      "id": 9,
      "nombre": "SuperCanal",
-     "categoría": "Entretenimiento",
+     "categoría": "Noticia",
      "imagen": "https://i.imgur.com/eotfCMd.png",
      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8"
    },
    { 
      "id": 10,
      "nombre": "Primavera15",
-     "categoría": "Peliculas",
+     "categoría": "Regionaless",
      "imagen": "https://i.imgur.com/wsJ8Ag2.png",
      "url": "https://mc.servidor.stream:19360/8244/8244.m3u8"
    }
